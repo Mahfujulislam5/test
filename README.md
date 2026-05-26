@@ -157,7 +157,7 @@
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/MikroDesk.git
+git clone https://github.com/Mahfujulislam5/MikroDesk.git
 cd MikroDesk
 ```
 
